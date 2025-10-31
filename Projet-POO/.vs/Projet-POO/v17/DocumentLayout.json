@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|e:\\2eme\\modules\\module 320\\projet\\projet-poo\\projet-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|solutionrelative:projet-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\projet-poo\\projectiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|solutionrelative:projet-poo\\projectiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\projet-poo\\obstacles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|solutionrelative:projet-poo\\obstacles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\projet-poo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|solutionrelative:projet-poo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\projet-poo\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|solutionrelative:projet-poo\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\projet-poo\\ennemis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED61236E-5A1C-4743-9BF3-5C27B8716D4E}|Projet-POO\\Projet-POO.csproj|solutionrelative:projet-poo\\ennemis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Program.cs",
+              "RelativeDocumentMoniker": "Projet-POO\\Program.cs",
+              "ToolTip": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Program.cs",
+              "RelativeToolTip": "Projet-POO\\Program.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAowEIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:41:14.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Score.cs",
+              "DocumentMoniker": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Score.cs",
+              "RelativeDocumentMoniker": "Projet-POO\\Score.cs",
+              "ToolTip": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Score.cs",
+              "RelativeToolTip": "Projet-POO\\Score.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T15:52:53.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projectiles.cs",
+              "DocumentMoniker": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Projectiles.cs",
+              "RelativeDocumentMoniker": "Projet-POO\\Projectiles.cs",
+              "ToolTip": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Projectiles.cs",
+              "RelativeToolTip": "Projet-POO\\Projectiles.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:41:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Player.cs",
+              "RelativeDocumentMoniker": "Projet-POO\\Player.cs",
+              "ToolTip": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Player.cs",
+              "RelativeToolTip": "Projet-POO\\Player.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwHIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:41:13.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Obstacles.cs",
+              "DocumentMoniker": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Obstacles.cs",
+              "RelativeDocumentMoniker": "Projet-POO\\Obstacles.cs",
+              "ToolTip": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Obstacles.cs",
+              "RelativeToolTip": "Projet-POO\\Obstacles.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:41:13.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ennemis.cs",
+              "DocumentMoniker": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Ennemis.cs",
+              "RelativeDocumentMoniker": "Projet-POO\\Ennemis.cs",
+              "ToolTip": "E:\\2eme\\Modules\\Module 320\\Projet\\Projet-POO\\Projet-POO\\Ennemis.cs",
+              "RelativeToolTip": "Projet-POO\\Ennemis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:41:11.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
