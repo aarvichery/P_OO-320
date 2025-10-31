@@ -13,3 +13,11 @@ E:\2eme\Modules\Module 320\Projet\Projet-POO\Projet-POO\obj\Debug\Projet-POO.pdb
 E:\2eme\Modules\Module 320\Projet\Projet-POO\Projet-POO\bin\Debug\Projet-POO.exe.config
 E:\2eme\Modules\Module 320\Projet\Projet-POO\Projet-POO\bin\Debug\Projet-POO.exe
 E:\2eme\Modules\Module 320\Projet\Projet-POO\Projet-POO\bin\Debug\Projet-POO.pdb
+C:\Users\pa84igb\Documents\GitHub\P_OO-320\Projet-POO\Projet-POO\bin\Debug\Projet-POO.exe.config
+C:\Users\pa84igb\Documents\GitHub\P_OO-320\Projet-POO\Projet-POO\bin\Debug\Projet-POO.exe
+C:\Users\pa84igb\Documents\GitHub\P_OO-320\Projet-POO\Projet-POO\bin\Debug\Projet-POO.pdb
+C:\Users\pa84igb\Documents\GitHub\P_OO-320\Projet-POO\Projet-POO\obj\Debug\Projet-POO.csproj.AssemblyReference.cache
+C:\Users\pa84igb\Documents\GitHub\P_OO-320\Projet-POO\Projet-POO\obj\Debug\Projet-POO.exe.config
+C:\Users\pa84igb\Documents\GitHub\P_OO-320\Projet-POO\Projet-POO\obj\Debug\Projet-POO.csproj.CoreCompileInputs.cache
+C:\Users\pa84igb\Documents\GitHub\P_OO-320\Projet-POO\Projet-POO\obj\Debug\Projet-POO.exe
+C:\Users\pa84igb\Documents\GitHub\P_OO-320\Projet-POO\Projet-POO\obj\Debug\Projet-POO.pdb

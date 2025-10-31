@@ -304,29 +304,7 @@ namespace Projet_POO
                     }
                     else if (o.Y > 24 && o.Y == player.Y && o.Visible == true || points.Points == 200) // (Si la position Y est de l'obstacle est supérieure à 24 ET égale à la position Y du joueur ET que l'obstacle est visible) OU que le score du joueur à atteint 200 (Score maximal)
                     {
-                        // Si le score du joueur est égale à 200
-                        if (points.Points == 200)
-                        {
-                            // L'obstacle devient invisible
                             o.Visible = false;
-
-                            // Affiche l'écran de victoire
-                            ShowVictory(points.Points);
-
-                            // Dans une intervalle de 1 milliseconde
-                            Thread.Sleep(1);
-                        }
-                        else // Si la condition ci dessus n'est pas remplie
-                        {
-                            // L'obstacle devient invisible
-                            o.Visible = false;
-
-                            // Affiche l'interface de défaite
-                            ShowVictory (points.Points);
-
-                            // Dans une intervalle de 1 milliseconde
-                            Thread.Sleep(1);
-                        }
                     }
 
                     if (Console.KeyAvailable) // vérifie s'il y a une touche pressée sans bloquer
